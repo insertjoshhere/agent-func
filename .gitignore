@@ -1,0 +1,26 @@
+# IDE / Editor
+.kiro/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Testing
+.pytest_cache/
+.hypothesis/
+
+# Virtual environments
+.venv/int
+venv/
+env/
+
+# OS artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
